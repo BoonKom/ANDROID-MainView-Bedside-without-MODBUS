@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ALARM_Stack04/AlarmListElement.qml</file>
+        <file>ALARM_Stack04/AlarmListView.qml</file>
+        <file>ALARM_Stack04/AlarmNotificate.qml</file>
+        <file>ALARM_Stack04/SetAlarmClock.qml</file>
+        <file>HOME_Stack01/TimeAndDateShow.qml</file>
+        <file>sound/sound_alarm.wav</file>
+        <file>object/CircularSlider.qml</file>
+        <file>object/OwnSwitch.qml</file>
+        <file>AIR_Stack03/Cslider.qml</file>
+    </qresource>
+</RCC>
